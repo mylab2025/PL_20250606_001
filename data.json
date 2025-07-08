@@ -7,7 +7,7 @@
     "PlannedDate": "2025-07-01T00:00:00",
     "Remarks": "test1",
     "Deducted": true,
-    "Approval": "Rejected"
+    "Approval": "Approved"
   },
   "materials": [
     {
